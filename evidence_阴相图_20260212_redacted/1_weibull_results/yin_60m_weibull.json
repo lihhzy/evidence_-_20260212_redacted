@@ -1,0 +1,17 @@
+{
+  "N": 60000000,
+  "yin_count": 30001508,
+  "yin_density": 0.5000251333333333,
+  "weibull_fit": {
+    "shape": 0.06199881917802104,
+    "loc": 0.500025133334171,
+    "scale": 0.5691999785344817,
+    "ks": 0.3977404958486743,
+    "p": 0.0
+  },
+  "critical_judgment": {
+    "threshold": 0.295,
+    "is_critical": true,
+    "conclusion": "临界点在50-60M"
+  }
+}

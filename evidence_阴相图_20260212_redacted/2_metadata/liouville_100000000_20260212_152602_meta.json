@@ -1,0 +1,48 @@
+{
+  "mission": "100M弛豫震荡重制",
+  "N": 100000000,
+  "timestamp": "2026-02-12",
+  "generation_time_sec": 121.36632251739502,
+  "generation_time_min": 2.0227720419565838,
+  "statistics": {
+    "yin_count": 50001942,
+    "yin_density": 0.50001942,
+    "mean_gap": 1.999922243018526,
+    "max_gap": 29,
+    "min_gap": 1
+  },
+  "chunks": [
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk00.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk01.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk02.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk03.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk04.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk05.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk06.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk07.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk08.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk09.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk10.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk11.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk12.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk13.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk14.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk15.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk16.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk17.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk18.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk19.npy",
+    "/home/researcher\\archive/100M\\raw\\liouville_100000000_20260212_152602_chunk20.npy"
+  ],
+  "historical_anchor": {
+    "original_discovery": "2026-02-12 03:36",
+    "original_shape": 0.246,
+    "remaster_date": "2026-02-12 15:26",
+    "purpose": "哈希上链 · 相图完整"
+  },
+  "prediction": {
+    "expected_shape": 0.246,
+    "expected_max_gap": 29,
+    "confidence": "high"
+  }
+}

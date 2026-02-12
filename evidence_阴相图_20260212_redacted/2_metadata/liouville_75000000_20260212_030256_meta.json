@@ -1,0 +1,40 @@
+{
+  "N": 75000000,
+  "timestamp": "2026-02-12",
+  "generation_time": 81.80048060417175,
+  "statistics": {
+    "yin_count": 37504878,
+    "yin_density": 0.50006504,
+    "mean_gap": 1.9997398738302754,
+    "max_gap": 29,
+    "min_gap": 1
+  },
+  "chunks": [
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk0.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk1.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk2.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk3.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk4.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk5.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk6.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk7.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk8.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk9.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk10.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk11.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk12.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk13.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk14.npy",
+    "/data/archive\\yin_yang_spectrum\\2026_W06\\raw\\liouville_75000000_20260212_030256_chunk15.npy"
+  ],
+  "annealing_hypothesis": {
+    "70M_shape": 0.062,
+    "80M_shape": 0.2701,
+    "75M_prediction_range": [
+      0.06,
+      0.15,
+      0.27
+    ],
+    "is_critical_point": true
+  }
+}

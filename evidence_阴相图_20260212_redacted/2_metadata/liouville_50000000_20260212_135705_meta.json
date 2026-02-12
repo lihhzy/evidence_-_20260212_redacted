@@ -1,0 +1,39 @@
+{
+  "mission": "50M临界膜重制",
+  "N": 50000000,
+  "timestamp": "2026-02-12",
+  "generation_time_sec": 46.22044658660889,
+  "generation_time_min": 0.7703407764434814,
+  "statistics": {
+    "yin_count": 25003804,
+    "yin_density": 0.50007608,
+    "mean_gap": 1.9996957262861172,
+    "max_gap": 25,
+    "min_gap": 1
+  },
+  "chunks": [
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk00.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk01.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk02.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk03.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk04.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk05.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk06.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk07.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk08.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk09.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk10.npy",
+    "/home/researcher\\archive/50M\\raw\\liouville_50000000_20260212_135705_chunk11.npy"
+  ],
+  "historical_anchor": {
+    "original_discovery": "2026-02-12 03:36",
+    "original_shape": 0.3058,
+    "remaster_date": "2026-02-12 13:57",
+    "purpose": "哈希上链 · 历史锚定"
+  },
+  "prediction": {
+    "expected_shape": 0.3058,
+    "expected_max_gap": 25,
+    "confidence": "high"
+  }
+}

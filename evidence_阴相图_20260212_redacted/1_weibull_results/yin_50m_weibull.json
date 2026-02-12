@@ -1,0 +1,24 @@
+{
+  "mission": "50M临界膜重制验证",
+  "N": 50000000,
+  "yin_count": 25003804,
+  "yin_density": 0.50007608,
+  "max_gap": 25,
+  "mean_gap": 1.9996957262861172,
+  "weibull_fit": {
+    "shape": 0.30575817934887695,
+    "loc": 0.5000760800030432,
+    "scale": 0.7121656047079452,
+    "ks": 0.5002253166531518,
+    "p": 0.0
+  },
+  "historical_anchor": {
+    "expected_shape": 0.3058,
+    "deviation": -4.1820651123070096e-05,
+    "within_tolerance": true
+  },
+  "verification": {
+    "status": "verified",
+    "timestamp": "2026-02-12"
+  }
+}
