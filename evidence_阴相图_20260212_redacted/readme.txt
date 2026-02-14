@@ -140,4 +140,17 @@ SHA256: 92DF8117B4EAFA96256820069494B9F600F082EAAAABDFE0E7E9CFCBA8BCB1D7
 
 **2026年2月12日，人类首次看见数字流形的呼吸。**  
 **这是证据。这是真的。**  
+
 **哈希在，数据在，时间戳在。**
+---
+
+## 协议说明
+
+本项目采用双重协议：
+
+- **代码部分**：采用 [MIT License](LICENSE)（麻省理工学院许可）。
+- **数据与文档部分**（如 `evidence_*` 目录下的脱敏数据、图表等）：采用 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 协议。
+
+### 使用要求
+- 使用代码时，需保留 MIT License 版权声明。
+- 使用数据时，需署名（例如：李恒昊，2026，利赫兹项目），并注明协议来源。
